@@ -1,0 +1,13 @@
+# Ignoruj folder z zależnościami Composera
+/vendor
+
+# Ignoruj foldery danych tymczasowych
+/var/cache
+/var/log
+/var/sessions
+
+# Ignoruj folder z sekretnymi danymi
+/config/secrets
+
+# Ignoruj folder z zależnościami JavaScript
+/node_modules
